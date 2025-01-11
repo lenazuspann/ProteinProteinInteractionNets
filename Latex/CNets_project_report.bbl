@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{biosnapnets}
+S.~M. Marinka~Zitnik, Rok~Sosi\v{c} and J.~Leskovec, ``{BioSNAP Datasets}:
+  {Stanford} biomedical network dataset collection.''
+  \url{http://snap.stanford.edu/biodata}, Aug. 2018.
+
+\bibitem{SafariAlighiarloo2014}
+S.-A. N., T.~M., R.-T. M., G.~B., and P.~A.A., ``Protein-protein interaction
+  networks (ppi) and complex diseases,'' {\em Gastroenterol Hepatol Bed Bench},
+  vol.~7, pp.~17--31, Dec. 2014.
+
+\bibitem{Newman2006}
+M.~Newman, ``Power laws, pareto distributions and zipf’s law.'' University of
+  Michigan, 2006.
+
+\bibitem{Wang2010}
+J.~Wang, M.~Li, Y.~Deng, and Y.~Pan, ``Recent advances in clustering methods
+  for protein interaction networks,'' {\em BMC Genomics}, vol.~11, no.~Suppl 3,
+  p.~S10, 2010.
+
+\bibitem{Barabasi2015}
+A.-L. Barabási, {\em Network Science}.
+\newblock Cambridge University Press, 2015.
+
+\end{thebibliography}
